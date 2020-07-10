@@ -1,0 +1,2 @@
+movies = { :month_python_and_the_holy_grail => "1975", :mean_girls => "2004", :frozen => "2013", :spy_kids => "2001", :indiana_jones_and_the_raiders_of_the_lost_ark => "1981"}
+movies.each { |movie, year| puts year}
